@@ -1,0 +1,3 @@
+# readme
+- satu 
+- dua 

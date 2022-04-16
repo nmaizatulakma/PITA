@@ -1,0 +1,33 @@
+SMAP
+manageaccountAdmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 manageaccountAdmin.jsp
+manageaccountAdmin.jsp
++ 1 library.jsp
+library.jsp
++ 2 navbarAdmin.jsp
+navbarAdmin.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,12:64
+1#1,5:76
+16#0,2:81
+5#2,10:83
+1#1,5:93
+14#2,27:98
+17#0,49:124
+66:173,3
+67,2:176
+68:216,11
+69,2:227
+70:269,5
+70,2:231
+71:287,5
+71,10:235
+80,8:180
+1#3,6:188
+87#0,5:194
+*E
